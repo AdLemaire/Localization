@@ -1,0 +1,22 @@
+{
+  "name": "com.adrienlemaire.localization-util",
+  "version": "1.0.0",
+  "displayName": "_Localization",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "library",
+    "utility",
+    "localization"
+  ],
+  "author": {
+    "name": "AdrienLemaire",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
